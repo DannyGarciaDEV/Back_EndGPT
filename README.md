@@ -7,7 +7,7 @@ How to run it:
 cd Backend/
 ```
 
-create and .env file and the port 6000
+create and .env file and past the following string
 
 ```javascript
 PORT=6000
@@ -16,5 +16,5 @@ PORT=6000
 
 3. `npm install`
 
-4. npm run dev
+4. `npm run dev`
 
